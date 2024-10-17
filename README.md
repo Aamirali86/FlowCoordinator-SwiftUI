@@ -74,4 +74,4 @@ This sample application contains several screen inclucding tab bar to cover addi
 - Buy item screen
 - Purchase Summary screen
 
-![Demo GIF](./flowCoordinator.gif)
+<img src="./flowCoordinator.gif" alt="Demo GIF" height="300" width="200">
